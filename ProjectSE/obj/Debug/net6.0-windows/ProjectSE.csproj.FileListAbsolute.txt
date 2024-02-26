@@ -1,0 +1,85 @@
+E:\c# projects\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.exe
+E:\c# projects\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.deps.json
+E:\c# projects\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.runtimeconfig.json
+E:\c# projects\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.dll
+E:\c# projects\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.pdb
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.csproj.AssemblyReference.cache
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Properties.Resources.resources
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.csproj.GenerateResource.cache
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.AssemblyInfoInputs.cache
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.AssemblyInfo.cs
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.csproj.CoreCompileInputs.cache
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.dll
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\refint\ProjectSE.dll
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.pdb
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.genruntimeconfig.cache
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ref\ProjectSE.dll
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Login.resources
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Splash.resources
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Homes.resources
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Employees.resources
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Customers.resources
+E:\c# projects\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Products.resources
+F:\sem 5\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.exe
+F:\sem 5\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.deps.json
+F:\sem 5\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.runtimeconfig.json
+F:\sem 5\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.dll
+F:\sem 5\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.pdb
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Customers.resources
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Employees.resources
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Homes.resources
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Login.resources
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Products.resources
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Properties.Resources.resources
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Splash.resources
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.csproj.GenerateResource.cache
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.GeneratedMSBuildEditorConfig.editorconfig
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.AssemblyInfoInputs.cache
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.AssemblyInfo.cs
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.csproj.CoreCompileInputs.cache
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.dll
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\refint\ProjectSE.dll
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.pdb
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.genruntimeconfig.cache
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ref\ProjectSE.dll
+F:\sem 5\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\sem 5\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\sem 5\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\sem 5\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\sem 5\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\sem 5\ProjectSE\ProjectSE\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.csproj.AssemblyReference.cache
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.csproj.CopyComplete
+F:\sem 5\ProjectSE\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.billing.resources
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.exe
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.deps.json
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.runtimeconfig.json
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.dll
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\bin\Debug\net6.0-windows\ProjectSE.pdb
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.csproj.AssemblyReference.cache
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.billing.resources
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Customers.resources
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Employees.resources
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Homes.resources
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Login.resources
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Products.resources
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Properties.Resources.resources
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.Splash.resources
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.csproj.GenerateResource.cache
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.AssemblyInfoInputs.cache
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.AssemblyInfo.cs
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.csproj.CoreCompileInputs.cache
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.csproj.CopyComplete
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.dll
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\refint\ProjectSE.dll
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.pdb
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ProjectSE.genruntimeconfig.cache
+D:\Pet_Shop_MG_System-main\Pet_Shop_MG_System-main\Pet_Shop_MG_System\ProjectSE\obj\Debug\net6.0-windows\ref\ProjectSE.dll
